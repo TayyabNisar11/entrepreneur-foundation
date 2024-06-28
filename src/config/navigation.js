@@ -123,7 +123,7 @@ export const routes = {
       roles: [SYSTEM_ADMIN],
     },
   ],
-  saasManager: [
+  saas: [
     {
       text: "Home",
       path: "/saas/home",
